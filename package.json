@@ -1,0 +1,19 @@
+{
+  "name": "simple-mysql-pool",
+  "version": "1.0.1",
+  "description": "这个是用于连接mysql数据库的简易版连接池客户端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mysql",
+    "pool",
+    "nodejs"
+  ],
+  "author": "bin.li",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
